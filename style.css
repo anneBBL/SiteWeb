@@ -1,0 +1,66 @@
+body{
+	 margin-right:7%;
+	 margin-left:7%;
+}
+
+
+h1
+{
+	text-align: center;
+    font-size: 80px;
+    <span style="background-color:#40c0ff;" >Un bouton bleu</span>
+}
+
+h2
+{
+    
+    font-size: 40px;
+}
+
+
+h3
+{
+    
+    font-size: 40px;
+}
+
+
+p{
+	font-size: 26px;
+	text-align:justify;
+
+}
+
+.imageCenter{
+	text-align: center;
+
+}
+
+.imageflottanteleft
+
+{
+
+    float: left;
+
+}
+
+.imageflottanteright
+
+{
+
+    float: right;
+
+}
+
+.dessous
+{
+    clear: both;
+}
+
+.ClopColor{
+	color:red;
+}
+
+.Gras{
+	font-weight:bold
+}
